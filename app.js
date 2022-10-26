@@ -121,7 +121,7 @@ function moveball() {
     cehckforcollisions()
 }
 
-timerID = setInterval(moveball, 30) // increase ball speed
+timerID = setInterval(moveball, 13) // increase ball speed
 
 
 // draw the ball
